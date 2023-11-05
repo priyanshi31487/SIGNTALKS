@@ -4,7 +4,7 @@
 
 ## <font face="Arial">Problem Statement</font>
 
-<font face="Arial">The deaf community faces communication challenges due to differences in language. SIGNTALKS aims to bridge this gap by providing animated sign language through voice and text conversion, facilitating effective communication.</font>
+<font face="Arial">The deaf community faces communication challenges due to differences in language. SIGNTALKS aims to bridge this gap by providing animated sign language through voice and text conversions, facilitating effective communication.</font>
 
 ## <font face="Arial">Solution</font>
 
