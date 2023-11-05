@@ -16,5 +16,5 @@
 ## <font face="Arial">Team Members</font>
 
 - *[Priyanshi Singh Rathour]* - (Team Leader)
-- *[Riddhi Gupta]*
 - *[Ritik Yadav]* 
+- *[Riddhi Gupta]*
